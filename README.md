@@ -9,7 +9,7 @@ Check out this Telegram Bot:- [@messagesfilterbot](https://t.me/messagesfilterbo
 - **Symbol & Variant Detection** – Detects inappropriate words even when written with symbols, numbers, or creative spelling.
 
 <p align="center">
-  <img src="img/symbol.gif" alt="symbol gif" />
+  <img src="img/symbol.gif" alt="symbol gif" width="300px"/>
 </p>
 
 - **Flexible Filter Modes** – Choose between 3 unique modes to control how filtered messages are handled.
