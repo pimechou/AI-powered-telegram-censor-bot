@@ -16,6 +16,6 @@ Check out this Telegram Bot:- [@messagesfilterbot](https://t.me/messagesfilterbo
 - **Spam Control** – Automatically identifies spam and can restrict users to maintain a healthy chat environment.
 
 <p align="center">
-  <img src="img/spam.gif" alt="spam gif" />
+  <img src="img/spam.gif" alt="spam gif" width="400px"/>
 </p>
 
