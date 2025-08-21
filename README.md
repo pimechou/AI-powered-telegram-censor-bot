@@ -6,6 +6,11 @@ Check out this Telegram Bot:- [@messagesfilterbot](https://t.me/messagesfilterbo
 # Features
 - **Automatic Censorship** – Automatically deletes inappropriate language to keep conversations clean.
 - **AI-Powered Context Filtering** – Understands context, so only truly offensive content gets filtered.
+
+<p align="center">
+  <img src="img/context.gif" alt="context gif" width="400px"/>
+</p>
+
 - **Symbol & Variant Detection** – Detects inappropriate words even when written with symbols, numbers, or creative spelling.
 
 <p align="center">
