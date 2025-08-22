@@ -19,18 +19,21 @@ Check out this Telegram Bot:- [@messagesfilterbot](https://t.me/messagesfilterbo
 
 - **Flexible Filter Modes** – Choose between 3 unique modes to control how filtered messages are handled.
   1. Passive Mode
+     
     Silently delete inappropriate messages
     <p align="center">
         <img src="img/passive.gif" alt="passive gif" width="400px"/>
     </p>
     
   2. Active Mode
+     
     Delete inappropriate messages and notify the group
     <p align="center">
         <img src="img/active.gif" alt="active gif" width="400px"/>
     </p>
     
   3. Censor Mode
+     
     Delete inappropriate messages and post a censored version
     <p align="center">
         <img src="img/censor.gif" alt="censor gif" width="400px"/>
