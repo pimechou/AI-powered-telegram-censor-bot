@@ -4,7 +4,7 @@ An intelligent Telegram moderation bot powered by GPT-5 that detects and removes
 Check out this Telegram Bot:- [@messagesfilterbot](https://t.me/messagesfilterbot)
 
 # Features
-- **Automatic Censorship** – Automatically deletes inappropriate language to keep conversations clean.
+- **Automatic Filtering** – Automatically deletes inappropriate language to keep conversations clean.
 
 <p align="center">
   <img src="img/auto.gif" alt="auto gif" width="400px"/>
